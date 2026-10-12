@@ -1,0 +1,12 @@
+[submodule "Interview_Agent"]
+	path = Interview_Agent
+	url = https://github.com/velusamy-5/Interview_Agent.git
+	branch = main
+[submodule "Voice_Agent"]
+	path = Voice_Agent
+	url = https://github.com/velusamy-5/Voice_Agent.git
+	branch = main
+[submodule "automate_ta"]
+	path = automate_ta
+	url = https://github.com/abh616/automate_ta.git
+	branch = phase1-build

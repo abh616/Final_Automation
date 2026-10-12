@@ -1,0 +1,10 @@
+Interview_Agent_backup/
+Voice_Agent_backup/
+automate_ta_backup/
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+node_modules/
