@@ -10,3 +10,7 @@
 	path = automate_ta
 	url = https://github.com/abh616/automate_ta.git
 	branch = phase1-build
+[submodule "paymatch"]
+	path = paymatch
+	url = https://github.com/krishnachaitrika/paymatch.git
+	branch = main
